@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/lukaszbieniek/eslint-config/compare/v2.0.0...v3.0.0) (2020-10-11)
+
+
+### chore
+
+* bump version ([c59491b](https://github.com/lukaszbieniek/eslint-config/commit/c59491b7a7bc53bf51863cf83b4b8238d98fd651))
+
+
+### BREAKING CHANGES
+
+* bump package version for consistency purposes
+
 # [2.0.0](https://github.com/lukaszbieniek/eslint-config/compare/v1.0.0...v2.0.0) (2020-10-11)
 
 
