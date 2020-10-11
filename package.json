@@ -1,6 +1,6 @@
 {
   "name": "@lukaszbieniek/eslint-config",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Shareable eslint config files",
   "license": "MIT",
   "author": "Łukasz Bieniek <lukasz.bieniek@hotmail.com>",
