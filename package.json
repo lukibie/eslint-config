@@ -1,0 +1,55 @@
+{
+  "name": "@lukaszbieniek/eslint-config",
+  "version": "0.1.0",
+  "description": "Shareable eslint config files",
+  "license": "MIT",
+  "author": "Łukasz Bieniek <lukasz.bieniek@hotmail.com>",
+  "homepage": "https://github.com/lukaszbieniek/eslint-config#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszbieniek/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "main": "lib/base.js",
+  "files": [
+    "/lib/**"
+  ],
+  "scripts": {
+    "format": "prettier **/*.{js,md} --write",
+    "lint": "eslint ."
+  },
+  "peerDependencies": {
+    "eslint": "^7.11.0",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.4.0",
+    "@typescript-eslint/parser": "^4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-import-resolver-typescript": "^2.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-unicorn": "^22.0.0"
+  },
+  "devDependencies": {
+    "@lukaszbieniek/prettier-config": "^1.0.0",
+    "@lukaszbieniek/semantic-release-config": "^1.0.0",
+    "eslint": "^7.11.0",
+    "prettier": "^2.1.2",
+    "semantic-release": "^17.1.2",
+    "typescript": "^4.0.3"
+  }
+}

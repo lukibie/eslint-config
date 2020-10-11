@@ -1,0 +1,14 @@
+.cache
+.vscode
+build
+coverage
+dist
+dist-docs
+node_modules
+temp
+
+/CHANGELOG.md
+
+npm-debug.log*
+lerna-debug.log*
+yarn-error.log*
