@@ -5,9 +5,6 @@
   "license": "MIT",
   "author": "Łukasz Bieniek <lukasz.bieniek@hotmail.com>",
   "homepage": "https://github.com/lukaszbieniek/eslint-config#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lukaszbieniek/eslint-config.git"
