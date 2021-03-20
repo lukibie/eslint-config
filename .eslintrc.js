@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./lib/base'],
+  extends: ['./lib/base', './lib/jest', './lib/typescript'],
 }
