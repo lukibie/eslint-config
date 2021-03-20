@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/lukaszbieniek/eslint-config/compare/v3.0.1...v3.1.0) (2021-03-20)
+
+
+### Features
+
+* disable some rules ([c9a90e2](https://github.com/lukaszbieniek/eslint-config/commit/c9a90e2e38248e758b29f5dd29063668995fa35c))
+
 ## [3.0.1](https://github.com/lukaszbieniek/eslint-config/compare/v3.0.0...v3.0.1) (2021-03-20)
 
 
