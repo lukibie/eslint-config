@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/lukaszbieniek/eslint-config/compare/v3.0.0...v3.0.1) (2021-03-20)
+
+
+### Bug Fixes
+
+* update of dependencies, repair of options in config files ([b948984](https://github.com/lukaszbieniek/eslint-config/commit/b94898456f2ce49ee2f223370519d914e86f25db))
+
 # [3.0.0](https://github.com/lukaszbieniek/eslint-config/compare/v2.0.0...v3.0.0) (2020-10-11)
 
 
